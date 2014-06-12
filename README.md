@@ -1,2 +1,4 @@
-Instagram Minimalist Silex Service Provider
-===========================================
+Instagram Mini Silex Service Provider
+=====================================
+
+/!\ Currently in development
