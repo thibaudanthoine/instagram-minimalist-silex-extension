@@ -15,6 +15,7 @@
         "php": ">=5.3.0",
         "silex/silex": ">=1.0,<2.0",
         "twig/twig": ">=1.8,<2.0-dev",
+        "twig/extensions": "1.0.*@dev",
         "symfony/twig-bridge": "~2.3",
         "guzzle/guzzle": "~3.7"
     },
