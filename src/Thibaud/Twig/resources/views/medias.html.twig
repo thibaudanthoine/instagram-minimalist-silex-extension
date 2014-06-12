@@ -1,0 +1,7 @@
+<ul>
+    {% for media in medias %}
+        <li>
+            <a href="{{ media.images.standard_resolution.url }}"><img src="{{ media.images.thumbnail.url }}"></a>
+        </li>
+    {% endfor %}
+</ul>
